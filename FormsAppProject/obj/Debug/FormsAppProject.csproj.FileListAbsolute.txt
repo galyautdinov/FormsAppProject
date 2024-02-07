@@ -1,0 +1,10 @@
+D:\Документы\Учеба СПБГТИ\6 семестр\Управление ИТ проектами\Работа с Git\FormsAppProject\FormsAppProject\bin\Debug\FormsAppProject.exe.config
+D:\Документы\Учеба СПБГТИ\6 семестр\Управление ИТ проектами\Работа с Git\FormsAppProject\FormsAppProject\bin\Debug\FormsAppProject.exe
+D:\Документы\Учеба СПБГТИ\6 семестр\Управление ИТ проектами\Работа с Git\FormsAppProject\FormsAppProject\bin\Debug\FormsAppProject.pdb
+D:\Документы\Учеба СПБГТИ\6 семестр\Управление ИТ проектами\Работа с Git\FormsAppProject\FormsAppProject\obj\Debug\FormsAppProject.csprojAssemblyReference.cache
+D:\Документы\Учеба СПБГТИ\6 семестр\Управление ИТ проектами\Работа с Git\FormsAppProject\FormsAppProject\obj\Debug\FormsAppProject.Form1.resources
+D:\Документы\Учеба СПБГТИ\6 семестр\Управление ИТ проектами\Работа с Git\FormsAppProject\FormsAppProject\obj\Debug\FormsAppProject.Properties.Resources.resources
+D:\Документы\Учеба СПБГТИ\6 семестр\Управление ИТ проектами\Работа с Git\FormsAppProject\FormsAppProject\obj\Debug\FormsAppProject.csproj.GenerateResource.cache
+D:\Документы\Учеба СПБГТИ\6 семестр\Управление ИТ проектами\Работа с Git\FormsAppProject\FormsAppProject\obj\Debug\FormsAppProject.csproj.CoreCompileInputs.cache
+D:\Документы\Учеба СПБГТИ\6 семестр\Управление ИТ проектами\Работа с Git\FormsAppProject\FormsAppProject\obj\Debug\FormsAppProject.exe
+D:\Документы\Учеба СПБГТИ\6 семестр\Управление ИТ проектами\Работа с Git\FormsAppProject\FormsAppProject\obj\Debug\FormsAppProject.pdb

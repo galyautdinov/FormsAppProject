@@ -13,7 +13,7 @@ namespace FormsAppProject
 
         private void button_Click(object sender, EventArgs e)
         {
-            button.ForeColor = Color.Red;
+            button.ForeColor = Color.DarkBlue;
         }
 
         private void Form1_Load(object sender, EventArgs e)
