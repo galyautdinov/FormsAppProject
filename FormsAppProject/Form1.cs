@@ -18,7 +18,7 @@ namespace FormsAppProject
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            label1.Text = "Это текст";
+            label1.Text = "";
         }
     }
 }
